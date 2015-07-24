@@ -1,6 +1,6 @@
 # circular-progress
 
-A reactive, flexible, SVG-based circular progress bar for Meteor
+This is a repackage of [rteslaru/meteor-circular-progress](https://github.com/rteslaru/meteor-circular-progress) which is "a reactive, flexible, SVG-based circular progress bar for Meteor."
 
 **Table of Contents**
 - [Overview](#overview)
